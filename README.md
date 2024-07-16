@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Tary_CODE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Tary_CODE&fontSize=50)
 <center>
 <a href="https://github.com/tree0000">
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=tree0000&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="tree0000's github stats"/>
