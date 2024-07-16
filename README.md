@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOKURI_CODE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CODE&fontSize=80)
 <center><img src=./logo.jpg width="auto" height="200px" /></center>
 새로운 도전을 좋아하는 박우현입니다.<br/><br/>
 <br/><br/>
