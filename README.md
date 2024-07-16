@@ -6,7 +6,7 @@
 <a href="https://github.com/tree0000">
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tree0000&layout=compact&theme=nord&hide_border=true" /></a></center>
 
-새로운 도전을 좋아하는 박우현입니다.<br/><br/>
+새로운 도전을 좋아하는 박우현입니다.🖐🏻🖐🏻<br/><br/>
 
 <br/>
 <br/>
