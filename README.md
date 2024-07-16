@@ -1,6 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Eungyeol%20%20&height=200&fontSize=90&fontColor=ffffff)
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Hello%20%20&height=200&fontSize=90&fontColor=ffffff)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftree0000&count_bg=%23060606&title_bg=%23191818&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -34,7 +34,7 @@
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
     </div>
-    ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+    ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
  
 
     
