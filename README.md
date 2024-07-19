@@ -21,7 +21,7 @@
 <br/>
 💻 Stack 💻
 <br/><br/>
-<p><strong>Frontend</strong></p>
+<p><strong>FrontEnd</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
@@ -30,9 +30,10 @@
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
          </div>
          <br><br>
-         <p><strong>backend</strong></p>
+         <p><strong>BackEnd</strong></p>
          <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
          <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
          <br/><br/>
        <p><strong>Server</strong></p>
     <div>
