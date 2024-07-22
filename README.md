@@ -15,8 +15,9 @@
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tree0000&layout=compact&theme=nord&hide_border=true" /></a></center>
 <br/>
 <br/>
-
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tree0000&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
 <br/>
 <br/>
 💻 Stack 💻
