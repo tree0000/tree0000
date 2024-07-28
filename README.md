@@ -41,6 +41,7 @@
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white">
         <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
     </div>
+    <br><br>
     
   ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
  
